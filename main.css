@@ -1,0 +1,60 @@
+/*get rid of default padding and margin*/
+.der{
+	width:110px;
+	float:left;
+    padding:25px 90px;
+    margin-left:5px;
+}
+*{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+
+header,nav{
+	display:block;
+	border-sty:groove
+	
+}
+ .body {
+    background-repeat:no-repeat;
+    font-family:Verdana, Geneva, sans-serif;
+	
+
+ }
+/*centering website*/
+.container{
+     width:1000px;
+	 margin:0px auto;
+	 
+}
+
+.pix{
+	width:300px;
+	height:250px;
+	padding:50px 300px;
+	margin-right:10px;
+}
+
+.top_nav{
+     float:left;
+	 width:768px;
+}
+
+.top_nav ul li{
+    float:center-right;
+	text-decoration:none;
+    margin-right:5px;	
+	color:gold;
+	text-align:right;
+}
+.down_nav  ul li{
+	float:right;
+	width:132px;
+	padding:50px 40px;
+	color:00a2ff;
+}
+
+.gg{
+	background-color: #f8f8f8;
+}

@@ -1,0 +1,30 @@
+ .body{
+	 display:block;
+	border-style:groove
+ }
+ .header{
+	height:30%;
+    text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	background-color:#EEEEBB;
+ }
+ .fav{
+	width:75%;
+    height:35%;	
+    background-color:#00a2ff;
+    text-align:left;	
+ }
+ 
+ .favo{
+	width:25%; 
+	height:"35%";
+	background-color:black;
+ }
+ 
+ .love{
+	background-color:#EEEEBB;
+    width:100%;
+    height:35%;	
+	font-weight:bold;	 
+ }
+ 

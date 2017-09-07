@@ -1,0 +1,19 @@
+fieldset{
+	width:720px;
+	background-color:#81d4fe;
+}
+fieldset legend{
+	font-weight:bold;
+}
+.der label{
+	width:100px;
+	float:left;
+}
+.top label{
+	width:100px;
+	float:left;    
+}
+.vim label{
+	width:200px;
+	float:left;    
+}
